@@ -14,3 +14,6 @@ ppluussss coooommmmmiiitttttt
 wan wan wan wan wnan awnan
 
 7번 이슈 타겟팅
+뭐가 테스트임
+
+내꺼에서도 push 되는지 확인
