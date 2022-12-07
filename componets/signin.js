@@ -12,4 +12,4 @@ const junyub = (a,b,c) => {
 const junyub2 = (a,b) => {
   return a*b
 }
-
+//준엽이 남긴 글
