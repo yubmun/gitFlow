@@ -13,3 +13,4 @@ const junyub2 = (a,b) => {
   return a*b
 }
 
+const 지성흔적4 = 0;
