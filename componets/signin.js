@@ -12,4 +12,8 @@ const junyub = (a,b,c) => {
 const junyub2 = (a,b) => {
   return a*b
 }
+
+
+const 지성흔적4 = 0;
+
 //준엽이 남긴 글
